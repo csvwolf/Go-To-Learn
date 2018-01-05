@@ -1,3 +1,9 @@
+*
+
+# ignore for binary files
+
+!/**/
+!*.*
 # Binaries for programs and plugins
 *.exe
 *.dll
